@@ -2,4 +2,27 @@ h1 {
   font-size: 50px;
   font-style: bold;
   font-family: cursive;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+}
+
+.btn-twitter {
+  background: #00acee;
+  border-color: #009ad5;
+  color: white;
+}
+
+.btn-facebook {
+  background: #4868ac;
+  border-color: #314776;
+  color: white;
+}
+
+.btn-pinterest {
+  background: #b62f26;
+  border-color: #b62f26;
+  color: white;
 }
