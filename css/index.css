@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+
 #pageheader {
     text-align: center;
     padding: 2% 0px;
@@ -8,6 +12,13 @@
   font-style: bold;
   font-family: cursive;
   text-align: center;
+  color: white;
+}
+
+.container-home {
+  background-color: gold;
+  margin-left: 250px;
+  margin-right: 250px;
 }
 
 .sidebar {
@@ -18,7 +29,7 @@
 }
 
 .sidebar:hover {
-  background-color: skyblue;
+  background-color: gold;
 }
 
 .sidebar ul {
@@ -40,6 +51,10 @@
     font-size: 18px;
     text-align: center;
     font-weight: bold;
+}
+
+.col-md-8 {
+  text-align: center;
 }
 
 .footer {
