@@ -19,6 +19,7 @@ body {
   background-color: gold;
   margin-left: 250px;
   margin-right: 250px;
+  border-radius: 5px;
 }
 
 .sidebar {
@@ -29,10 +30,12 @@ body {
     color: white;
     font-family: cursive;
     transition: background-color 0.2s;
+    border-radius: 5px;
 }
 
 .sidebar:hover {
   background-color: gold;
+  color: black;
 }
 
 .sidebar ul {
@@ -105,7 +108,7 @@ input[type="text"]:hover {
 .btn-twitter {
   background: #00acee;
   border-color: #009ad5;
-  color: white; 
+  color: white;
 }
 
 .btn-facebook {
