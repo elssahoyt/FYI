@@ -61,14 +61,51 @@ body {
   margin-left: 150px;
 }
 
+.input-form {
+  padding: 50px 20px 30px 0px;
+}
+
+.input {
+  text-align: right;
+  color: gold;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.input-values {
+  text-align: right;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.button {
+  text-align: right;
+  padding-top: 10px;
+}
+
+input[type="text"] {
+  background-color: blue;
+  transition: background-color 0.2s;
+  font-family: cursive;
+  text-align: left;
+  border-color: gold;
+}
+
+input[type="text"]:hover {
+ background-color: gold;
+ border-color: blue;
+}
+
 .footer {
   text-align: right;
+  padding: 0px 20px 50px 0px;
 }
 
 .btn-twitter {
   background: #00acee;
   border-color: #009ad5;
-  color: white;
+  color: white; 
 }
 
 .btn-facebook {
