@@ -1,0 +1,31 @@
+.pdf-container {
+  text-align: center;
+}
+
+.content-container {
+  text-align: justify;
+  font-size: 20px;
+  font-family: cursive;
+  color: white;
+  padding-bottom: 50px;
+}
+
+h3 {
+  color: gold;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  margin-left: 175px;
+  margin-right: 175px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
