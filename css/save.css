@@ -7,10 +7,21 @@
   list-style-type: none;
 }
 
-.youtube-links {
+.first-youtube-link {
   padding-top: 50px;
   text-align: center;
   color: #3399ff;
   font-size: 20px;
   font-family: cursive;
+}
+
+.second-youtube-link {
+  text-align: center;
+  color: #3399ff;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+li {
+  list-style-type: none;
 }
