@@ -10,17 +10,25 @@
 .first-youtube-link {
   padding-top: 50px;
   text-align: center;
+  color: #3399ff;
+  font-size: 20px;
+  font-family: cursive;
+  padding-bottom: 5px;
+}
+
+.first-youtube-link a{
+  text-align: center;
   background-color: #3399ff;
+  color: white;
   margin-left: 250px;
   margin-right: 250px;
   border-radius: 5px;
-  color: white;
   font-size: 20px;
   font-family: cursive;
-
+  padding-bottom: 5px;
 }
 
-.second-youtube-link {
+.second-youtube-link a{
   text-align: center;
   background-color: #3399ff;
   color: white;
