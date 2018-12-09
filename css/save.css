@@ -29,10 +29,11 @@
 }
 
 .second-youtube-link a{
+  padding-top: 10px;
   text-align: justify;
   background-color: #3399ff;
   color: white;
-  margin-left: 400px;
+  margin-left: 450px;
   border-radius: 5px;
   font-size: 20px;
   font-family: cursive;
