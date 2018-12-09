@@ -6,3 +6,11 @@
   font-family: cursive;
   list-style-type: none;
 }
+
+.youtube-links {
+  padding-top: 50px;
+  text-align: center;
+  color: #3399ff;
+  font-size: 20px;
+  font-family: cursive;
+}
