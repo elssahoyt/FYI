@@ -1,25 +1,40 @@
 .save-content {
-  padding-top: 50px;
-  text-align: center;
-  color: white;
+  text-align: justify;
   font-size: 20px;
   font-family: cursive;
+  color: white;
   list-style-type: none;
 }
 
+h3 {
+  color: gold;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  margin-left: 175px;
+  margin-right: 175px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
 .first-youtube-link {
-  padding-top: 50px;
+  padding-top: 35px;
   text-align: center;
   color: #3399ff;
   font-size: 20px;
   font-family: cursive;
-  padding-bottom: 5px;
+  padding-bottom: 35px;
 }
 
 .first-youtube-link a{
   text-align: center;
-  background-color: #3399ff;
-  color: white;
+  background-color: gold;
+  color: blue;
+  padding: 5px 8px 5px 8px;
   margin-left: 250px;
   margin-right: 250px;
   border-radius: 5px;
@@ -27,16 +42,32 @@
   font-family: cursive;
 }
 
+.first-youtube-link a:hover {
+  background-color: blue;
+  color: gold;
+}
+
+.second-youtube-link {
+  padding-bottom: 60px;
+}
+
 .second-youtube-link a{
-  text-align: justify;
-  background-color: #3399ff;
-  color: white;
+  text-align: center;
+  background-color: blue;
+  color: gold;
+  padding: 5px 8px 5px 8px;
   margin-left: 425px;
   border-radius: 5px;
   font-size: 20px;
   font-family: cursive;
 }
 
+.second-youtube-link a:hover {
+  background-color: gold;
+  color: blue;
+}
+
 li {
   list-style-type: none;
+  text-align: center;
 }
