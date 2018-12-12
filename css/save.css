@@ -1,13 +1,22 @@
 .home-button {
   background-color: blue;
-  margin-right: 1150px;
+  margin-right: 1055px;
+  margin-left: 35px;
+  margin-top: 35px;
+  padding: 5px 8px 5px 8px;
+  border-radius: 5px;
 }
 
 .home-button a {
   color: gold;
+  font-size: 22px;
   font-family: cursive;
-  padding: 5px 8px 5px 8px;
+  text-align: center;
+}
 
+#pageheader {
+  position: relative;
+  top: -15px;
 }
 
 .center {
