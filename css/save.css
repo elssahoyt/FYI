@@ -1,3 +1,9 @@
+.center {
+  border: 2px solid gold;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
 .save-content {
   text-align: justify;
   font-size: 20px;
@@ -15,10 +21,10 @@ h3 {
 
 p {
   text-align: center;
-  margin-left: 175px;
-  margin-right: 175px;
+  margin-left: 100px;
+  margin-right: 100px;
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .first-youtube-link {
