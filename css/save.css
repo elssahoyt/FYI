@@ -1,10 +1,9 @@
 .home-button {
   background-color: blue;
-  margin-right: 1055px;
-  margin-left: 35px;
-  margin-top: 35px;
   padding: 5px 8px 5px 8px;
   border-radius: 5px;
+  width: 200px;
+  margin-top: 3%;
 }
 
 .home-button a {
@@ -53,6 +52,10 @@ li {
   text-align: center;
 }
 
+.button {
+  text-align: center;
+}
+
 .first-youtube-link {
   padding-top: 35px;
   text-align: center;
@@ -81,6 +84,7 @@ li {
 
 .second-youtube-link {
   padding-bottom: 60px;
+  text-align: center;
 }
 
 .second-youtube-link a{
@@ -88,7 +92,6 @@ li {
   background-color: blue;
   color: gold;
   padding: 5px 8px 5px 8px;
-  margin-left: 425px;
   border-radius: 5px;
   font-size: 20px;
   font-family: cursive;
