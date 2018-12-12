@@ -1,3 +1,15 @@
+.home-button {
+  background-color: blue;
+  margin-right: 1150px;
+}
+
+.home-button a {
+  color: gold;
+  font-family: cursive;
+  padding: 5px 8px 5px 8px;
+
+}
+
 .center {
   border: 2px solid gold;
   margin-left: 200px;
