@@ -25,32 +25,6 @@
   margin-right: 200px;
 }
 
-.pdf-button {
-  padding-top: 35px;
-  text-align: center;
-  color: #3399ff;
-  font-size: 20px;
-  font-family: cursive;
-  padding-bottom: 35px;
-}
-
-.pdf-button a{
-  text-align: center;
-  background-color: gold;
-  color: blue;
-  padding: 5px 8px 5px 8px;
-  margin-left: 250px;
-  margin-right: 250px;
-  border-radius: 5px;
-  font-size: 20px;
-  font-family: cursive;
-}
-
-.pdf-button a:hover {
-  background-color: blue;
-  color: gold;
-}
-
 .content-container {
   text-align: justify;
   font-size: 20px;
@@ -77,4 +51,30 @@ p {
 ul {
   list-style-type: none;
   text-align: center;
+}
+
+.pdf-button {
+  padding-top: 35px;
+  text-align: center;
+  color: #3399ff;
+  font-size: 20px;
+  font-family: cursive;
+  padding-bottom: 35px;
+}
+
+.pdf-button a{
+  text-align: center;
+  background-color: gold;
+  color: blue;
+  padding: 5px 8px 5px 8px;
+  margin-left: 250px;
+  margin-right: 250px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.pdf-button a:hover {
+  background-color: blue;
+  color: gold;
 }

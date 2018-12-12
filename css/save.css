@@ -48,6 +48,11 @@ p {
   padding-bottom: 20px;
 }
 
+li {
+  list-style-type: none;
+  text-align: center;
+}
+
 .first-youtube-link {
   padding-top: 35px;
   text-align: center;
@@ -92,9 +97,4 @@ p {
 .second-youtube-link a:hover {
   background-color: gold;
   color: blue;
-}
-
-li {
-  list-style-type: none;
-  text-align: center;
 }
